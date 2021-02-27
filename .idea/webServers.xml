@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="089c8e6f-bc22-4271-a9c4-5f1e38f41fba" name="whitehquk lite" url="http://whitehq.uk/lite">
+        <fileTransfer rootFolder="/home/ruk34grgk5uc/public_html/whitehq.uk/lite" accessType="SFTP" host="160.153.133.87" port="22" sshConfigId="80b08915-bf2c-46d5-9e0c-7a62c906497e" sshConfig="ruk34grgk5uc@160.153.133.87:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
